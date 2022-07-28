@@ -1,0 +1,9 @@
+Apprendre a inclure et utiliser un framework CSS
+
+ici Bootstrap 4.6
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+A l'aide de la template,
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+Apprendre a la reproduire afin d'appliquer les acquis

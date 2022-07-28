@@ -1,0 +1,12 @@
+Installer les differents logiciels pour bien demarrer la programmation :
+
+- VSCode + extensions :
+	- Prettier
+	- PHP Intelephense
+###
+- Git
+- Compte Github
+###
+- Nodejs (environnement serveur)
+- Sass
+- Wamp

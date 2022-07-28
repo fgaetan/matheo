@@ -1,0 +1,6 @@
+Apprendre a inclure et utiliser un framework JS
+
+ici jQuery 3.6
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+
+Reproduire la meme todo-list mais avec le framework

@@ -1,0 +1,63 @@
+###################
+	1ERE PARTIE
+###################
+FRONT END
+
+template HTML/CSS
++ Bootstrap
+https://www.free-css.com/free-css-templates/page280/webwing
+
+tuto/doc HTML
+https://www.w3schools.com/html/default.asp
+
+tuto/doc CSS
+https://www.w3schools.com/css/default.asp
+
+1er exo / Maquette HTML & CSS natifs
+2e exo / reprendre la maquette et faire la partie responsive
+
+###################
+	2EME PARTIE
+###################
+framework CSS - bootstrap
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+3e exo / Meme maquette a refaire avec Bootstrap
+responsive auto.
+
+###################
+	3EME PARTIE
+###################
+notion d'algorithmique
++JS ES6
++framework js (jQuery)
+
+tuto/doc JS
+https://www.w3schools.com/js/default.asp
+
+tuto/doc jQuery
+https://www.w3schools.com/jquery/default.asp
+
+tuto/doc AJAX
+https://www.w3schools.com/js/js_ajax_intro.asp
+
+4e exo / todo-list pour JS
+5e exo / todo-list avec jQuery (manipulation du DOM)
+
++methode AJAX
+6e exo / dashboard admin avec CRUD
+
+###################
+	4EME PARTIE
+###################
+BACK END
+
+installation wamp pour serveur local
+https://www.wampserver.com/en/download-wampserver-64bits/
+
+MySQL 
+faire des tables & langage SQL
+
+PHP
+modele MVC et exo final :
+- site e-commerce sous pHp -

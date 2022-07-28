@@ -1,0 +1,5 @@
+Apprendre a utiliser le langage de script Javascript
+Apprendre la notion d'algorithmique et en comprendre les principes
+
+Reproduire une todo-list simple
+_________________________________________________ (exemple manquant)

@@ -1,0 +1,11 @@
+Apprender a utiliser la methode AJAX
+sur un modele API en serveur local
+
+afin de reproduire un Dashboard Administrateur
+de liste de contacts
+
+et effectuer un CRUD
+(Create, Read, Update, Delete)
+
+# exemple sur mon Github
+

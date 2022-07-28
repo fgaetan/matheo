@@ -1,0 +1,11 @@
+Apprendre les bases de la programmation web et ses langages natifs
+
+HTML: langage de balisage
+CSS: langage de style
+
+A l'aide de la template,
+https://www.free-css.com/free-css-templates/page280/webwing
+
+Apprendre a la reproduire afin d'appliquer les acquis
+
++ apprendre a utiliser Git

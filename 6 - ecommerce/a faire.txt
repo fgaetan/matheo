@@ -1,0 +1,4 @@
+Apprendre la notion de back-end,
+- SQL / pHp
+
+et creer un site d'e-commerce sur le modele MVC
